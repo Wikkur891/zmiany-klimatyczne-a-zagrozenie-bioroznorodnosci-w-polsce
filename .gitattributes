@@ -1,0 +1,2 @@
+occurence.txt filter=lfs diff=lfs merge=lfs -text
+poland_voivodeships.geojson filter=lfs diff=lfs merge=lfs -text
